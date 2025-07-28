@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/nureshma-banner.png" alt="nureshma" width="100%">
+  <img src="./assets/nureshma-banner.jpg" alt="nureshma" width="100%">
 </div>
 <h1 align="center">Future Developer in Action ⚡🌐</h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
